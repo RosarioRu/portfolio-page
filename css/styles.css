@@ -1,4 +1,5 @@
 .top {
+  /* float:left; */
   border: 2px;
   margin-left: 20px;
   margin-top: 10px;
@@ -26,6 +27,42 @@ img.chayo {
   height: auto;
 }
 
+.about {
+  width: 100%
+
+}
+
+.blurb {
+  width:45%;
+  float:left;
+  border: 1px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.hobbies {
+  width:45%
+  float:right;
+  border: 1px;
+  margin: auto;
+  box-sizing: border-box;
+  
+
+
+}
+
+
+
+
+
+
+.projects {
+  border: 2px solid;
+  width: 100%;
+  box-sizing: border-box;
+  
+
+}
 
 
 /* h1.first {

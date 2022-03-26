@@ -1,6 +1,7 @@
 .name {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 20px;
+  width: 60%
 }
 
 h1.first {
@@ -15,8 +16,10 @@ h1.last {
 
 img.chayo {
   float: right;
-  width: 50%;
+  width: 25%;
 }
+
+
 
 /* h1.first {
   font-family: Verdana, Geneva, Tahoma, sans-serif;

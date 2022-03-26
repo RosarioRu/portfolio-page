@@ -3,8 +3,7 @@
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 40px;
-  /* padding: 5px; */
-  width: 70%;
+  width: 75%;
   box-sizing: border-box;
 }
 
@@ -14,12 +13,7 @@
   width: 75%
 }
 
-h1.first {
-}
-
 h1.last {
-  /* float: left;
-  box-sizing: border-box; */
   width:min-content;
 
 }

@@ -5,12 +5,14 @@
   margin-bottom: 40px;
   width: 75%;
   box-sizing: border-box;
+  padding-bottom: 10px;
 }
 
 .name {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 20px;
   width: 75%
+  
 }
 
 h1.last {
@@ -22,7 +24,6 @@ img.chayo {
   float: right;
   width: 40%;
   height: auto;
-  
 }
 
 

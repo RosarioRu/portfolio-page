@@ -2,22 +2,29 @@ body {
   background-color: bisque;
 }
 
+/* .test {
+  width: 90%;
+  height: auto;
+  border: 2px solid black;
+  box-sizing: border-box;
+} */
+
 .top {
-  float:center;
+  float:left;
   border: 1px;
   margin-left: 20px;
   margin-top: 1px;
   margin-bottom: 10px;
-  width: 90%;
+  width: 70%;
+  height: auto;
   box-sizing: border-box;
 }
 
 .name {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: monospace;
   font-size: 21px;
   letter-spacing: 20px;
-  width: 70%;
-  
+  width: 90%;
 }
 
 h1.first {
@@ -42,10 +49,11 @@ img.chayo {
 
 .about {
   width: 95%;
+  height: auto;
   border: 1px;
   padding: 20px;
+  box-sizing: border-box;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
 }
 
 .blurb {
@@ -67,15 +75,7 @@ img.chayo {
   border: 1px;
   margin: auto;
   box-sizing: border-box;
-  
-
-
 }
-
-
-
-
-
 
 .projects {
   float:left;
@@ -83,4 +83,9 @@ img.chayo {
   margin: 5px;
   margin-top: 10px;
   padding: 20px;
+}
+
+.projects h2 {
+  text-align: center;
+  transform: scale(2.5,2);
 }

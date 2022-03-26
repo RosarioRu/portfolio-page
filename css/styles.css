@@ -4,21 +4,20 @@
 }
 
 h1.first {
-  width:100%;
 }
 
 h1.last {
-  float: left;
-  box-sizing: border-box;
+  /* float: left;
+  box-sizing: border-box; */
   width:min-content;
 
 }
 
-/* h1.last {
-  float: left;
-  width: 10%;
-  height: auto; */
+img.chayo {
+  float: right;
+  width: 50%;
 }
+
 /* h1.first {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 

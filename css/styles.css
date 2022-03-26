@@ -1,5 +1,9 @@
 body {
   background-color: bisque;
+  box-sizing: border-box;
+  width:100%;
+  height: auto;
+  border:1px solid black;
 }
 
 .top-half {
@@ -80,7 +84,7 @@ img.chayo {
   box-sizing: border-box;
 }
 
-.projects {
+.bottom-half {
   float:left;
   border:1px;
   border-top:1px solid rgb(82, 65, 44);

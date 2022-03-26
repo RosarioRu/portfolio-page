@@ -4,9 +4,10 @@
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 40px;
-  width: 75%;
+  width: 90%;
   box-sizing: border-box;
-  padding-bottom: 10px;
+  padding: 10px;
+  padding-bottom: 30px;
 }
 
 .name {
@@ -23,12 +24,12 @@ h1.last {
 
 img.chayo {
   float: right;
-  width: 40%;
+  width: 35%;
   height: auto;
 }
 
 .about {
-  width: 100%
+  width: 100%;
   border: 1px;
   padding: 20px;
 

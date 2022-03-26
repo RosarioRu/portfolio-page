@@ -12,7 +12,7 @@
 
 ## Description
 
-_This Portfolio Landing Page showcases projects that were created by Rosario Ruvalcaba and other co-authors while attending Epicodus. It provides links to the respositories created while attening the full-stack programming course. A lot of the examples here were created using a paired-programming model. The page also gives some background information on the coding student, Rosario.
+_This Portfolio Landing Page showcases projects that were created by Rosario Ruvalcaba and other co-authors while attending Epicodus. It provides links to the respositories created while attening the full-stack programming course. A lot of the examples here were created using a paired-programming model. The page also gives some background information on the coding student, Rosario._
 
 ## Setup/Installation Requirements
 

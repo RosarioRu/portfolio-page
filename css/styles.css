@@ -79,13 +79,21 @@ img.chayo {
 
 .projects {
   float:left;
-  border: 1px;
+  border:1px;
   margin: 5px;
-  margin-top: 10px;
-  padding: 20px;
+  margin-top: 0px;
+  width: 95%;
+  height: auto;
+  padding: 10px;
+  padding-top: 5px;
+  box-sizing: border-box;
 }
 
 .projects h2 {
   text-align: center;
   transform: scale(2.5,2);
+  border:1px;
+  padding-bottom: 10px;
+  
+
 }

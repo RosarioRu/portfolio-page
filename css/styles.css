@@ -1,9 +1,5 @@
 body {
   background-color: bisque;
-  box-sizing: border-box;
-  width:100%;
-  height: auto;
-  border:1px solid black;
 }
 
 .top-half {
@@ -103,4 +99,8 @@ img.chayo {
   transform: scale(2.5,2);
   border:1px;
   padding-bottom: 10px;
+}
+
+.different {
+  color: rgb(231, 63, 63);
 }

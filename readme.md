@@ -16,13 +16,13 @@ _This Portfolio Landing Page showcases projects that were created by Rosario Ruv
 
 ## Setup/Installation Requirements
 
-*_Clone repository from Github and save a copy on own computer_
+* _Clone repository from Github and save a copy on own computer_
 
-*_Using GUI or terminal, open cloned project directory (titled portfolio-page) to view files_
+* _Using GUI or terminal, open cloned project directory (titled portfolio-page) to view files_
 
-*_Using GUI or terminal, open index.html file to view project locally_
+* _Using GUI or terminal, open index.html file to view project locally_
 
-*_If needed, Stylesheets, images and readme can also be opened from project home directory ("portfolio-page")_
+* _If needed, Stylesheets, images and readme can also be opened from project home directory ("portfolio-page")_
 
 * _To access the Github pages for this project, click here: _
 

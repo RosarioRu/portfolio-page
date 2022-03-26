@@ -3,7 +3,7 @@ body {
 }
 
 .top {
-  float:left;
+  float:center;
   border: 1px;
   margin-left: 20px;
   margin-top: 1px;
@@ -27,16 +27,17 @@ h1.first {
 h1.last {
   width:min-content;
   transform: scale(1,.9);
+  float: left;
 }
 
 img.chayo {
-  float: right;
+  /* float: right; */
   width: 40%;
   height: auto;
 }
 
 .about {
-  width: 100%;
+  width: 95%;
   border: 1px;
   padding: 20px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

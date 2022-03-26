@@ -3,10 +3,15 @@
   letter-spacing: 20px;
 }
 
-h1.last {
+h1.first {
+  text-align: justify;
+  
+}
+
+/* h1.last {
   float: left;
   width: 10%;
-  height: auto;
+  height: auto; */
 }
 /* h1.first {
   font-family: Verdana, Geneva, Tahoma, sans-serif;

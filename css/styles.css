@@ -22,12 +22,16 @@ body {
 
 h1.first {
     transform: scale(1,.9);
+    border:1px;
+    margin-bottom:0px;
 }
 
 h1.last {
   width:min-content;
   transform: scale(1,.9);
   float: left;
+  border:1px;
+  margin-top:0px;
 }
 
 img.chayo {

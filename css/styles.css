@@ -1,9 +1,13 @@
+body {
+  background-color: bisque;
+}
+
 .top {
   float:left;
-  border: 2px;
+  border: 1px;
   margin-left: 20px;
-  margin-top: 5px;
-  margin-bottom: 20px;
+  margin-top: 1px;
+  margin-bottom: 10px;
   width: 90%;
   box-sizing: border-box;
 }
@@ -18,7 +22,6 @@
 
 h1.first {
     transform: scale(1,.9);
-    
 }
 
 h1.last {
@@ -36,6 +39,7 @@ img.chayo {
   width: 100%;
   border: 1px;
   padding: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
@@ -45,6 +49,11 @@ img.chayo {
   border: 1px;
   margin: auto;
   box-sizing: border-box;
+  text-align: center;
+}
+
+.blurb p{
+  font-style: italic;
 }
 
 .hobbies {
@@ -69,18 +78,4 @@ img.chayo {
   margin: 5px;
   margin-top: 10px;
   padding: 20px;
-
-
-
 }
-
-
-/* h1.first {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-}
-
-h1.second {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  float: left;
-} */

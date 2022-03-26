@@ -1,0 +1,19 @@
+.name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 20px;
+}
+
+h1.last {
+  float: left;
+  width: 10%;
+  height: auto;
+}
+/* h1.first {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1.second {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  float: left;
+} */

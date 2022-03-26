@@ -12,7 +12,7 @@ body {
 
 .name-picture {
   float:left;
-  border: 1px solid black;
+  border: 1px;
   margin-left: 20px;
   margin-right: 0px;
   margin-top: 1px;
@@ -57,7 +57,7 @@ img.chayo {
   float:right;
   height: auto;
   margin-left: 0px;
-  border: 1px solid black;
+  border: 1px;
   padding-top:30px;
   padding-right:30px;
   padding-left:0px;
@@ -87,7 +87,8 @@ img.chayo {
 
 .projects {
   float:left;
-  border:1px solid black;
+  border:1px;
+  border-top:1px solid rgb(82, 65, 44);
   margin: 5px;
   margin-top: 0px;
   width: 90%;

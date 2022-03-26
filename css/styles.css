@@ -4,8 +4,14 @@
 }
 
 h1.first {
-  text-align: justify;
-  
+  width:100%;
+}
+
+h1.last {
+  float: left;
+  box-sizing: border-box;
+  width:min-content;
+
 }
 
 /* h1.last {

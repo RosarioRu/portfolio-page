@@ -29,6 +29,8 @@ img.chayo {
 
 .about {
   width: 100%
+  border: 1px;
+  padding: 20px;
 
 }
 
@@ -58,7 +60,12 @@ img.chayo {
 
 .projects {
   float:left;
-  
+  border: 1px;
+  margin: 5px;
+  margin-top: 10px;
+  padding: 20px;
+
+
 
 }
 

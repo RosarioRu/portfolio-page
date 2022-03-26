@@ -41,7 +41,7 @@ img.chayo {
 }
 
 .hobbies {
-  width:45%
+  width:45%;
   float:right;
   border: 1px;
   margin: auto;
@@ -57,9 +57,7 @@ img.chayo {
 
 
 .projects {
-  border: 2px solid;
-  width: 100%;
-  box-sizing: border-box;
+  float:left;
   
 
 }

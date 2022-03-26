@@ -1,5 +1,14 @@
 body {
   background-color: bisque;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+
+.test {
+  width: 90%;
+  height: auto;
+
 }
 
 /* .test {
@@ -11,12 +20,24 @@ body {
 
 .top {
   float:left;
-  border: 1px;
+  border: 1px solid black;
   margin-left: 20px;
+  margin-right: 0px;
   margin-top: 1px;
   margin-bottom: 10px;
-  width: 70%;
+  width: 50%;
   height: auto;
+  box-sizing: border-box;
+}
+
+.about {
+  
+  width: 40%;
+  float:right;
+  height: auto;
+  margin-left: 0px;
+  border: 1px solid black;
+  padding: 10px;
   box-sizing: border-box;
 }
 
@@ -43,18 +64,18 @@ h1.last {
 
 img.chayo {
   /* float: right; */
-  width: 40%;
+  width: 50%;
   height: auto;
 }
 
-.about {
+/* .about {
   width: 95%;
   height: auto;
   border: 1px;
   padding: 20px;
   box-sizing: border-box;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+} */
 
 .blurb {
   width:45%;
@@ -79,10 +100,10 @@ img.chayo {
 
 .projects {
   float:left;
-  border:1px;
+  border:1px solid black;
   margin: 5px;
   margin-top: 0px;
-  width: 95%;
+  width: 90%;
   height: auto;
   padding: 10px;
   padding-top: 5px;
@@ -94,6 +115,4 @@ img.chayo {
   transform: scale(2.5,2);
   border:1px;
   padding-bottom: 10px;
-  
-
 }

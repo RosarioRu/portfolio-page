@@ -1,7 +1,17 @@
+.top {
+  border: 2px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* padding: 5px; */
+  width: 70%;
+  box-sizing: border-box;
+}
+
 .name {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 20px;
-  width: 60%
+  width: 75%
 }
 
 h1.first {
@@ -16,7 +26,9 @@ h1.last {
 
 img.chayo {
   float: right;
-  width: 25%;
+  width: 40%;
+  height: auto;
+  
 }
 
 

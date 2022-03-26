@@ -1,16 +1,16 @@
 body {
   background-color: bisque;
-  width: 100%;
-  height: auto;
-  box-sizing: border-box;
 }
 
 .top-half {
-  width: 90%;
+  width: 95%;
   height: auto;
+  border:1px;
+  box-sizing:border-box;
 }
 
 .name-picture {
+  box-sizing: border-box;
   float:left;
   border: 1px;
   margin-left: 20px;
@@ -19,19 +19,14 @@ body {
   margin-bottom: 10px;
   width: 50%;
   height: auto;
-  box-sizing: border-box;
-}
-
-
-
-.name {
   font-family: monospace;
   font-size: 21px;
   letter-spacing: 20px;
-  width: 90%;
 }
 
 h1.first {
+    width:100%;
+    height: auto;
     transform: scale(1,.9);
     border:1px;
     margin-bottom:0px;
@@ -48,24 +43,24 @@ h1.last {
 img.chayo {
   margin-left:30px;
   margin-top:30px;
-  width: 50%;
+  width: 45%;
   height: auto;
 }
 
 .about {
-  width: 45%;
   float:right;
+  width: 45%;
   height: auto;
   margin-left: 0px;
   border: 1px;
-  padding-top:30px;
-  padding-right:30px;
+  padding-top:20px;
+  padding-right:20px;
   padding-left:0px;
   box-sizing: border-box;
 }
 
 .blurb {
-  width:45%;
+  width:40%;
   float:left;
   border: 1px;
   margin: auto;
@@ -89,9 +84,10 @@ img.chayo {
   float:left;
   border:1px;
   border-top:1px solid rgb(82, 65, 44);
+  background-color: rgb(241, 212, 175);
   margin: 5px;
   margin-top: 0px;
-  width: 90%;
+  width: 95%;
   height: auto;
   padding: 10px;
   padding-top: 5px;

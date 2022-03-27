@@ -38,7 +38,7 @@ h1.first {
     width:100%;
     height: auto;
     padding-left: 5px;
-    transform: scale(1,.9);
+    transform: scale(1,1.01);
     border:1px solid black;
     
 }
@@ -47,7 +47,7 @@ h1.first {
 h1.last {
   box-sizing: border-box;
   width:min-content;
-  transform: scale(1,.9);
+  /* transform: scale(1,.9); */
   float: left;
   border: 1px solid black;
   margin-top: 0px;

@@ -24,7 +24,7 @@ _This Portfolio Landing Page showcases projects that were created by Rosario Ruv
 
 * _If needed, Stylesheets, images and readme can also be opened from project home directory ("portfolio-page")_
 
-* _To access the Github pages for this project, click here: RosarioRu.github.io/portfolio-page_
+* _The Github page for this project: RosarioRu.github.io/portfolio-page_
 
 ## Known Bugs
 
